@@ -1,0 +1,123 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 19, 2020, 12:56:12 PM
+    Author     : Administrator
+*/
+body {
+    background-image: url(../image/bg.jpg);
+    background-repeat: repeat-x;
+    font-family: sans-serif;
+    word-break: break-all;
+    word-wrap: break-word;
+    font-size: 20px;
+    color: #32525f;
+}
+
+h1 {
+    color: #00008a;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.input-text {
+    background-color: #faffbd;
+}
+
+.login table tr td {
+    padding-right: 10px;
+}
+
+.register table tr td label {
+    padding-right: 50px;
+}
+
+.name-welcome {
+    padding-bottom: 40px;
+}
+
+.main {
+    background-color: #ffffff;
+    width: 663px;
+    padding-left: 18.5px;
+    padding-right: 18.5px;
+    padding-bottom: 100px;
+}
+
+.top-box {
+    background-image: url(../image/top_box.gif);
+    width: 700px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.element-center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 700px;
+}
+
+.my-body {
+    margin: 40px 20px;
+}
+
+.my-body input {
+    font-weight: bold;
+}
+
+.error {
+    font-size: 20px;
+    color: #ff0000 !important;
+}
+
+.sucsess {
+    font-size: 20px;
+    color: #00ff00 !important;
+}
+
+.paging a {
+    text-decoration: none;
+    color: #ffffff;
+    border: 1px solid #3333ff;
+    background-color: #3333ff;
+}
+
+.paging .active {
+    text-decoration: none;
+    color: #3333ff;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+}
+
+span {
+    color: #1f1eff;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table tr td {
+    color: #32525f;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+table tr td a {
+    color: #32525f;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.text-top {
+    vertical-align: top;
+    padding-right: 10px;
+}

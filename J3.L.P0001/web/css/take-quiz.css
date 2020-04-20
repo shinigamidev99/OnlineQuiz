@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 17, 2020, 8:33:12 PM
+    Author     : Administrator
+*/
+.take-quiz .question table .time-remaining {
+    text-align: right;
+    width: 400px;
+}
+
+.take-quiz .question table .time-remaining span {
+    color: #ff0000;
+}
+
+.hidden {
+    display: none;
+}
+
+.take-quiz .your-score {
+    padding-bottom: 30px;
+}
+
+.take-quiz .question-take {
+    padding-top: 40px;
+}

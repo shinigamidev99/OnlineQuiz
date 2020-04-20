@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 17, 2020, 9:47:17 PM
+    Author     : Administrator
+*/
+.manage-quiz .text-width {
+    max-width: 400px;
+}
+
+.manage-quiz tr td {
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.manage-quiz table tr th {
+    text-align: left;
+    padding-right: 10px;
+    color: #1f1eff;
+}
+
+.manage-quiz table tr td a {
+    text-align: left;
+}
+
+.manage-quiz .row-question {
+    width: 400px;
+}
